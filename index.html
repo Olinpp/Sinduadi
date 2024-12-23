@@ -137,7 +137,7 @@
       pointToLayer: function (feature, latlng) {
         return L.marker(latlng, {
           icon: L.icon({
-            iconUrl: "aset/maps.png",
+            iconUrl: "https://raw.githubusercontent.com/Olinpp/Sinduadi/Olinpp-patch-1/aset/maps.png", // Lokasi gambar pada repositori,
             iconSize: [21, 21],
             iconAnchor: [12, 24],
             popupAnchor: [0, -4]
@@ -156,7 +156,7 @@
         }
       });
 
-      $.getJSON("data/titikrt.geojson", function(data) {
+      $.getJSON("https://raw.githubusercontent.com/Olinpp/Sinduadi/Olinpp-patch-1/data/patran.geojson.", // Lokasi gambar pada repositori", function(data) {
         titikRT.addData(data);
         map.addLayer(titikRT);
       });

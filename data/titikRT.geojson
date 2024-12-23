@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "titikRT",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null, "RT": "01", "Jumlah_KK": 20, "Jmlh_Usaha": 2, "Jlh_Sekola": 0, "Fas_Umum": 2, "Pem_Sampah": 1, "iuran": 200000 }, "geometry": { "type": "Point", "coordinates": [ 110.359823848741968, -7.749957563267889 ] } },
+{ "type": "Feature", "properties": { "id": null, "RT": "02", "Jumlah_KK": 23, "Jmlh_Usaha": 3, "Jlh_Sekola": 0, "Fas_Umum": 0, "Pem_Sampah": 1, "iuran": 200000 }, "geometry": { "type": "Point", "coordinates": [ 110.360173127376697, -7.75118963589381 ] } },
+{ "type": "Feature", "properties": { "id": null, "RT": "03", "Jumlah_KK": 16, "Jmlh_Usaha": 4, "Jlh_Sekola": 0, "Fas_Umum": 0, "Pem_Sampah": 1, "iuran": 200000 }, "geometry": { "type": "Point", "coordinates": [ 110.361793780241783, -7.7507604874109 ] } },
+{ "type": "Feature", "properties": { "id": null, "RT": "04", "Jumlah_KK": 21, "Jmlh_Usaha": 5, "Jlh_Sekola": 0, "Fas_Umum": 0, "Pem_Sampah": 1, "iuran": 200000 }, "geometry": { "type": "Point", "coordinates": [ 110.359977531341258, -7.752158679245778 ] } },
+{ "type": "Feature", "properties": { "id": null, "RT": "05", "Jumlah_KK": 12, "Jmlh_Usaha": 2, "Jlh_Sekola": 0, "Fas_Umum": 0, "Pem_Sampah": 1, "iuran": 200000 }, "geometry": { "type": "Point", "coordinates": [ 110.362883529582106, -7.751618783939198 ] } },
+{ "type": "Feature", "properties": { "id": null, "RT": "06", "Jumlah_KK": 15, "Jmlh_Usaha": 2, "Jlh_Sekola": 0, "Fas_Umum": 0, "Pem_Sampah": 1, "iuran": 200000 }, "geometry": { "type": "Point", "coordinates": [ 110.359488541252645, -7.753639926914788 ] } },
+{ "type": "Feature", "properties": { "id": null, "RT": "07", "Jumlah_KK": 26, "Jmlh_Usaha": 5, "Jlh_Sekola": 2, "Fas_Umum": 0, "Pem_Sampah": 1, "iuran": 200000 }, "geometry": { "type": "Point", "coordinates": [ 110.358105397859163, -7.759440276470726 ] } },
+{ "type": "Feature", "properties": { "id": null, "RT": "08", "Jumlah_KK": 30, "Jmlh_Usaha": 7, "Jlh_Sekola": 0, "Fas_Umum": 3, "Pem_Sampah": 1, "iuran": 200000 }, "geometry": { "type": "Point", "coordinates": [ 110.357043590809624, -7.760935341670518 ] } }
+]
+}
